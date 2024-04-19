@@ -1,5 +1,3 @@
-
-
 from turtle import * 
 # Importa todas las funciones y clases del modulo turtle, 
 # la cual permite permite crear dibujos, figuras geométricas y patrones 
